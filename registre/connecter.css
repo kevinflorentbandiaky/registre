@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    }
+    .container{
+        display: flex;
+        justify-content: center;
+        padding: 100px;
+    
+    }
+    form{
+        padding: 90px;
+        background-color: rgb(218, 186, 45);
+        border-radius: 15px;
+        border: none;
+    }
+    
+    input {
+        padding: 10px;
+        border-radius: 10px;
+    }
+    h2{
+        justify-content: center;
+    }
+    .connecter{
+    justify-content: center;
+    }
+    
